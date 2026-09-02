@@ -1,0 +1,17 @@
+/* Cambia el fondo de la página y el tipo de letra */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Da color y centra el título h1 */
+h1 {
+    color: #1a73e8;
+    text-align: center;
+}
+
+/* Cambia el tamaño y color de los párrafos */
+p {
+    font-size: 18px;
+    color: #333333;
+}
